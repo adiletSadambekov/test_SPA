@@ -1,0 +1,4 @@
+config.py
+func_db.py
+__pycache__/
+logfile_db.txt
